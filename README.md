@@ -13,7 +13,6 @@ React projects.
 ## 📫 How to Reach Me
 
 - Email: [wojteklewczuk123@gmail.com](mailto:wojteklewczuk123@gmail.com)
-- 😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
